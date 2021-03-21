@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/textViewNumCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NumCode"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/textViewCharCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CharCode"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/textViewNominal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nominal"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/textViewValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Value"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/textViewPrevious"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Previous"
+        android:textSize="20sp"/>
+
+</LinearLayout>
